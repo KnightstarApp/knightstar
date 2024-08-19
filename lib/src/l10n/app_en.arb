@@ -1,0 +1,7 @@
+{
+    "@@locale": "en",
+    "appTitle": "Flutter Demo",
+    "homePageTitle":"Flutter Demo Home Page" ,
+    "homePageDescreption":"You have pushed the button this many times:",
+    "homePageIncrement":"Increment"
+}

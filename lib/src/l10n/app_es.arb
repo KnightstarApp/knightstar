@@ -1,0 +1,7 @@
+{
+    "@@locale": "es",
+    "appTitle": "Demostración de aleteo",
+    "homePageTitle":"Página de inicio de demostración de Flutter" ,
+    "homePageDescreption":"Has pulsado el botón tantas veces:",
+    "homePageIncrement":"Incremento"
+}
